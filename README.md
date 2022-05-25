@@ -17,8 +17,9 @@
   - [What is data science](./fundamentals/what-is-data-science.md)
   - [What does data scientists do?](./fundamentals/data-scientist.md)
 - Big Data and Data Mining
-  - [Foundation of Big Data](./fundamentals/big-data.md)
-  - [Hadoop and MapReduce](./fundamentals/hadoop.md)
-  - [Data Mining](./fundamentals/data-mining.md)
+  - [Foundation of Big Data](./big-data//big-data.md)
+  - [Hadoop and MapReduce](./big-data//hadoop.md)
+  - [Data Mining](./big-data//data-mining.md)
 - Deep Learning and Machine Learning
-  - 
+  - [Their difference](./machine-learning/basics.md)
+  - [Applications of Machine Learning](./machine-learning/application.md)
