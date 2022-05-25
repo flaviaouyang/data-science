@@ -23,3 +23,4 @@
 - Deep Learning and Machine Learning
   - [Their difference](./machine-learning/basics.md)
   - [Applications of Machine Learning](./machine-learning/application.md)
+  - [regression](./machine-learning/regression.md)
